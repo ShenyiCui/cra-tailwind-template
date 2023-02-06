@@ -58,7 +58,3 @@ src/
 ## Screenshots
 
 _[Placeholder]_
-
-```
-
-```
